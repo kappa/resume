@@ -1,0 +1,94 @@
+Resume
+
+Alex Kapranoff, +7(910)456-5681, kapranoff@gmail.com.
+
+Current residence: Moscow, Russia.
+
+== Work experience:
+
+Mar 11-present day, Yandex, the leading Internet search engine in
+Russia, http://yandex.ru.
+I am the backend manager for the Yandex Mail product. I design and
+manage processes in development and maintainance of the product.  I
+manage several teams of developers and sysadmins — 20-30 people
+combined.  We serve 10 million people weekly on the Web and receive
+100 million emails each day. We are the second largest mailbox
+provider in Eastern Europe.
+
+Jan 09-Dec 10, CTO at nadoby.ru, a startup around lead generation
+and social search. 3 to 6 people, Amazon EC2, Perl, nginx, PostgreSQL,
+lots of AJAX. I did less of programming and more of architecture
+design, HR, operations, project and product management.
+
+Aug 07-Jan 09 — Head of Mail at Rambler.Ru. Went up from 3 people to 2
+departments with 17 people combined. 50+ million registered accounts,
+15+ million active users, 200+ servers at Rambler data center. Lots of
+management and also lots of really hard technical problems.
+
+Jun 04-Aug 07 — system developer at Rambler.Ru. High load dynamic
+websites, email systems. Perl, Apache API, IMAP4, memcached, XML,
+AJAX, MySQL etc.
+
+Jun 03-May 04 — web developer at "Channel One Russia", the number one
+broadcasting company in Russia. Perl, high load websites, e.g.
+official presidential and parliament elections sites v2003.ru,
+v2004.ru. Also, worked for Dni.Ru as the main developer, maintainer and web
+master in parallel.
+
+Mar 03-Jun 03 — system and web developer at INLINE Technologies.
+Telco billing systems. Perl, Oracle, MySQL.
+
+Mar 02-Mar 03 — Perl developer at AGAVA Software, web hosting
+department.  Hosting infrastructure, electronic payments.
+
+since 1999 — several jobs (full and part-time) as a developer.  ERM in
+Delphi, then FreeBSD ISP infrastructure, then Dni.ru online news
+outlet, then web studio with lots of PHP+Oracle+XML/XSLT.
+
+== Education:
+
+Specialist (5 years), Bryansk State Technical University, degree with
+honours in Automated Systems Software (Computer Science). Regular
+speaker at student conferences, local ACM ICPC team member, then
+coach. Degree work on biometric identification and authentication
+systems.
+
+One year of postgraduate studies in Moscow Institute of Electronic
+Engineering, Moscow.
+
+== Qualifications Summary:
+
+Perl:					14 years
+Unix/Linux:				14 years
+JavaScript:				9 years
+SQL databases:			13 years
+Technical management:	5.5 years
+
+TCP/IP, FreeBSD, Linux, development tools starting from RCS, gdb, then
+to CVS, Perforce, SVN, Mercurial, git. Did some work in C, then mostly
+switched to Perl. Also, write a lot of JavaScript. Know a lot of other
+programming languages but rarely use any of them professionally.
+
+As a manager I'm a strict adept of "give developers a lot of freedom"
+philosophy.  I don't micro-manage and that requires that I hire only
+the best people.
+
+I also have special interests in web security. I did a lot of
+anti-XSS, anti-CSRF etc. work and gave public talks on it.
+
+I love to work on legacy or foreign code (really!), doing security and
+quality analysis, debug and document it.
+
+== Public activity:
+
+Regular speaker and organizer of technical workshops and conferences
+in Russia, Ukraine and other CIS countries. RIT, C-IB, Highload++,
+ClientSide, YAPC::Russia etc. See, e.g., http://perlrussia.ru. Also,
+gave two talks in English at YAPC::Europe conferences.
+
+I contributed to several Open Source projects and take part in online
+professional communities.
+
+== Misc:
+
+Fluent written English, mostly fluent spoken English.
